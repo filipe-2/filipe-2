@@ -14,6 +14,6 @@ Quer entrar em contato? (<i>Wanna contact me?</i>)
 
 <div>  
   <a href="mailto:carlos.filipe.ramos.12"><img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="mailto:carlos.filipe.ramos.12"><img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/filipe-ramos-a990902b6/"><img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
   <a href="https://wa.me/5585996835332"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>

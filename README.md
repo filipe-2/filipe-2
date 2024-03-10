@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&theme=tokyonight">
 
 ## Linguagens <i>(Languages)</i>
 Aqui estão as linguagens de marcação, estilo e programação junto com as bibliotecas e frameworks que estou familiarizado <i>(Here are the markup, style, and programming languages together with libraries and frameworks that I'm familiar with):</i>

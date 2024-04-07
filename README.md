@@ -5,9 +5,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-2&theme=tokyonight&layout=compact">
 </div>
 
+<hr>
+
 <h2 align="center">Tools</h2>
 
-Technologies that I'm familiar with:
+<p align="center">Technologies that I'm familiar with:</p>
 
 <div align="center">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,9 +18,11 @@ Technologies that I'm familiar with:
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Expo" height="30" width="40" src="./logo.svg">
 </div>
-  
+
+<hr>
+
 <h2 align="center">Contact</h2>
-Wanna contact me?
+<p align="center">Wanna contact me?</p>
 
 <div align="center">
   <a href="mailto:carlos.filipe.ramos.12"><img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>

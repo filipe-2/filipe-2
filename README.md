@@ -1,4 +1,4 @@
-<h2 align="center">📊 Stats 📊</h2>
+<h2 align="center">📊 Stats 📈</h2>
 <p align="center">My GitHub statistics:</p>
 
 <div align="center">

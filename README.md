@@ -1,11 +1,12 @@
-## Stats
+<h2 align="center">Stats</h2>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-2&theme=tokyonight&layout=compact">
 </div>
 
-## Languages
+<h2 align="center">Tools</h2>
+
 Technologies that I'm familiar with:
 
 <div align="center">
@@ -16,7 +17,7 @@ Technologies that I'm familiar with:
     <img align="center" alt="Expo" height="30" width="40" src="./logo.svg">
 </div>
   
-## Contact
+<h2 align="center">Contact</h2>
 Wanna contact me?
 
 <div align="center">

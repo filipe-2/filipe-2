@@ -1,4 +1,5 @@
 <h2 align="center">📊 Stats 📊</h2>
+<p align="center">My GitHub statistics:</p>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&theme=tokyonight">

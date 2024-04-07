@@ -1,4 +1,4 @@
-<h2 align="center">Stats</h2>
+<h2 align="center">📊 Stats 📊</h2>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&theme=tokyonight">
@@ -7,7 +7,7 @@
 
 <hr>
 
-<h2 align="center">Tools</h2>
+<h2 align="center">⚒️ Tools 🛠️</h2>
 
 <p align="center">Technologies that I'm familiar with:</p>
 
@@ -21,7 +21,7 @@
 
 <hr>
 
-<h2 align="center">Contact</h2>
+<h2 align="center">☎️ Contact ☎️</h2>
 <p align="center">Wanna contact me?</p>
 
 <div align="center">

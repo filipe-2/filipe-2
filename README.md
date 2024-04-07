@@ -1,12 +1,14 @@
+## Stats
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-2&theme=tokyonight&layout=compact">
 </div>
 
 ## Languages
-Development technologies that I'm familiar with:</i>
+Development technologies that I'm familiar with:
 
-<div>
+<div align="center">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

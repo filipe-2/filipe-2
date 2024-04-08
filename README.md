@@ -2,8 +2,8 @@
 <p align="center">My GitHub statistics:</p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-2&theme=tokyonight&layout=compact">
+<img width ="75%" src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&theme=tokyonight">
+<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-2&theme=tokyonight&layout=compact">
 </div>
 
 <hr>

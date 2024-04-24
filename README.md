@@ -10,6 +10,8 @@ I have knowledge in web development languages like HTML, CSS, SASS, and JavaScri
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vscode,photoshop,git,github&theme=dark" />
 
+I use Visual Studio Code as my main code editor, and I like to use Photoshop to edit images and logos for my projects.
+
 ## Contact
 You can reach me through:
 <div>

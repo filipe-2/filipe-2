@@ -8,7 +8,9 @@
 
 I have knowledge in web development languages like HTML, CSS, SASS, and JavaScript, as well as some basic knowledge of React, and I also use React Native for mobile development with Expo.
 
+
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vscode,photoshop,git,github,firebase&theme=dark" />
+
 
 I use Visual Studio Code as my main code editor, and I like to use Photoshop to edit images and logos for my projects.
 

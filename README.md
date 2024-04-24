@@ -16,11 +16,4 @@ You can reach me through:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlos.filipe.ramos.12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/filipe-ramos-a990902b6/)
-
-
-
-
-
-<div>
-  <a href="https://wa.me/5585996835332"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-009900?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-</div>
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-009900?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585996835332)

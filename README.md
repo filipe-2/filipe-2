@@ -1,4 +1,4 @@
-## 📊 My GitHub stats
+## ⭐ My stats
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&count_private=true&title_color=00ffff&icon_color=6666ff&text_color=00ffff&bg_color=0d1117&border_color=fff0" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-2&layout=compact&title_color=00ffff&text_color=00ffff&bg_color=0d1117&border_color=fff0" />

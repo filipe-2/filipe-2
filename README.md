@@ -23,7 +23,7 @@ Currently I'm working on four projects:
 - [ThermoSense](https://github.com/filipe-2/thermosense): an IoT project with the ESP32 module and React Native for developing a thermometer app. 🤖
 - [StarGaze](https://github.com/filipe-2/stargaze): A fullstack website project with JS, Python, and Flask. 🐍
 - [The Coffee Shop](https://github.com/filipe-2/the-coffee-shop): A frontend website project with vanilla JS. ☕
-- [Dificuldades no Aprendizado][(https://github.com/filipe-2/dificuldades-no-aprendizado): A big data project with Python and machine learning algorithms. 📚
+- [Dificuldades no Aprendizado](https://github.com/filipe-2/dificuldades-no-aprendizado): A big data project with Python and machine learning algorithms. 📚
 
 ## ☎️ Contact
 You can reach me through:

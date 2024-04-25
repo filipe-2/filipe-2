@@ -6,7 +6,7 @@
 
 ## 🤹 Skill set
 
-Knowledge in web development languages including HTML, CSS, SASS, and JavaScript, as well as some basic knowledge of React.
+Knowledge in web development languages including HTML, CSS, SASS, and JavaScript, as well as some basic knowledge of the React library.
 
 I also use React Native for mobile development with Expo.
 

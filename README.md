@@ -11,7 +11,7 @@ Knowledge in web development languages including HTML, CSS, SASS, and JavaScript
 
 I also use React Native for mobile development with Expo.
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vscode,photoshop,git,github,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,node,vscode,photoshop,git,github,firebase&theme=dark" />
 
 ## 📚 What I'm studying
 

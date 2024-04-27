@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Filipe, and I'm from Brazil 🇧🇷. Currentl
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=filipe-2&theme=black-ice)](https://git.io/streak-stats)
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=filipe-2&theme=black-ice&hide_border=true"/></div>
 
 ## 🤹 Skill set
 

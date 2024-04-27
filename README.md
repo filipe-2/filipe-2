@@ -8,7 +8,9 @@
 
 Welcome to my GitHub profile! I'm Filipe, and I'm from Brazil 🇧🇷. Currently, I'm focused on learning web and mobile development, and my primary programming language right now is JavaScript.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-2&layout=compact&title_color=00ffff&text_color=00ffff&bg_color=0d1117&border_color=fff0" />
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=filipe-2&theme=black-ice)](https://git.io/streak-stats)
 
 ## 🤹 Skill set
 
@@ -36,7 +38,7 @@ Currently, I'm working on four projects:
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&count_private=true&title_color=00ffff&icon_color=6666ff&text_color=00ffff&bg_color=0d1117&border_color=fff0" />
+
 
 ## ☎️ Contact
 You can reach me through Gmail and LinkedIn:

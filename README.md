@@ -3,17 +3,20 @@
 <div align="center">
     <a href="https://github.com/filipe-2/stargaze/blob/main/README-en.md"><img src="https://img.shields.io/badge/Ler_em-portugu%C3%AAs-blue"/></a>
 </div>
+
 <br>
 
 Welcome to my GitHub profile! I'm Filipe, and I'm from Brazil 🇧🇷. Currently, I'm focused on learning web and mobile development, and my primary programming language right now is JavaScript.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-2&layout=compact&title_color=00ffff&text_color=00ffff&bg_color=0d111700&border_color=fff0" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-2&layout=compact&title_color=00ffff&text_color=00ffff&bg_color=0d1117&border_color=fff0" />
 
 ## 🤹 Skill set
 
 Knowledge in web development languages including HTML, CSS, SASS, and JavaScript, as well as some basic knowledge of the React library.
 
 I also use React Native for mobile development with Expo.
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,vscode,photoshop,git,github,firebase&theme=dark" />
 
@@ -31,7 +34,9 @@ Currently, I'm working on four projects:
 - [**The Coffee Shop**](https://github.com/filipe-2/the-coffee-shop): A frontend website project with vanilla JS. ☕
 - [**Dificuldades no Aprendizado**](https://github.com/filipe-2/dificuldades-no-aprendizado): A big data project with Python and machine learning algorithms. 📚
 
-<img src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&count_private=true&title_color=00ffff&icon_color=6666ff&text_color=00ffff&bg_color=0d111700&border_color=fff0" />
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&count_private=true&title_color=00ffff&icon_color=6666ff&text_color=00ffff&bg_color=0d1117&border_color=fff0" />
 
 ## ☎️ Contact
 You can reach me through Gmail and LinkedIn:

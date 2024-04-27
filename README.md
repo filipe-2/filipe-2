@@ -36,10 +36,6 @@ Currently, I'm working on four projects:
 - [**The Coffee Shop**](https://github.com/filipe-2/the-coffee-shop): A frontend website project with vanilla JS. ☕
 - [**Dificuldades no Aprendizado**](https://github.com/filipe-2/dificuldades-no-aprendizado): A big data project with Python and machine learning algorithms. 📚
 
-<br>
-
-
-
 ## ☎️ Contact
 You can reach me through Gmail and LinkedIn:
 

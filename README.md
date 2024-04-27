@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header"/>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&count_private=true&title_color=00ffff&icon_color=6666ff&text_color=00ffff&bg_color=0d1117&border_color=fff0" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-2&layout=compact&title_color=00ffff&text_color=00ffff&bg_color=0d1117&border_color=fff0" />
-</div>
+Welcome to my GitHub profile! I'm Filipe, and I'm from Brazil 🇧🇷. Currently, I'm focused on learning web and mobile development, and my primary programming language right now is JavaScript.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-2&layout=compact&title_color=00ffff&text_color=00ffff&bg_color=0d111700&border_color=fff0" />
 
 ## 🤹 Skill set
 
@@ -21,11 +20,13 @@ I also use React Native for mobile development with Expo.
 - And much more...
 
 ## 👨‍💻 What I'm developing
-Currently I'm working on four projects:
+Currently, I'm working on four projects:
 - [**ThermoSense**](https://github.com/filipe-2/thermosense): an IoT project with the ESP32 module and React Native for developing a thermometer app. 🤖
 - [**StarGaze**](https://github.com/filipe-2/stargaze): A fullstack website project with HTML, CSS, JS, Python, and Flask. 🐍
 - [**The Coffee Shop**](https://github.com/filipe-2/the-coffee-shop): A frontend website project with vanilla JS. ☕
 - [**Dificuldades no Aprendizado**](https://github.com/filipe-2/dificuldades-no-aprendizado): A big data project with Python and machine learning algorithms. 📚
+
+<img src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&count_private=true&title_color=00ffff&icon_color=6666ff&text_color=00ffff&bg_color=0d111700&border_color=fff0" />
 
 ## ☎️ Contact
 You can reach me through:

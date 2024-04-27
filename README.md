@@ -1,5 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header"/>
 
+<div align="center">
+    <a href="https://github.com/filipe-2/stargaze/blob/main/README-en.md"><img src="https://img.shields.io/badge/Ler_em-portugu%C3%AAs-blue"/></a>
+</div>
+<br>
+
 Welcome to my GitHub profile! I'm Filipe, and I'm from Brazil 🇧🇷. Currently, I'm focused on learning web and mobile development, and my primary programming language right now is JavaScript.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-2&layout=compact&title_color=00ffff&text_color=00ffff&bg_color=0d111700&border_color=fff0" />
@@ -29,7 +34,7 @@ Currently, I'm working on four projects:
 <img src="https://github-readme-stats.vercel.app/api?username=filipe-2&show_icons=true&count_private=true&title_color=00ffff&icon_color=6666ff&text_color=00ffff&bg_color=0d111700&border_color=fff0" />
 
 ## ☎️ Contact
-You can reach me through:
+You can reach me through Gmail and LinkedIn:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlos.filipe.ramos.12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/filipe-ramos-a990902b6/)

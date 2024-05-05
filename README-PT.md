@@ -22,14 +22,14 @@ Eu também uso React Native para desenvolvimento mobile com Expo.
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,vscode,photoshop,git,github,firebase&theme=dark" />
 
-## 📚 O que estou estudando?
+## 📚 O que estou estudando
 
 - **Vanilla JavaScript**: Estou estudando vanilla JS para ter fundações sólidas para bibliotecas como React.
 - **React/React Native**: Já me sinto confortável para estudar React e React Mative, por causa da minha base com JS.
 - **SASS**: Para uma maior produtividade com CSS, pois aumenta bastante a legibilidade do código por permiting nesting, mixions, partials, etc.
 - E muito mais...
 
-## 👨‍💻 O que estou desenvolvendo
+## 👨‍💻 O que estou criando
 Atualmente estou trabalhando em quatro projetos:
 - [**ThermoSense**](https://github.com/filipe-2/thermosense): Projeto de IoT com o módulo ESP32 e React Native para o desenvolvimento de um aplicativo termômetro. 🤖
 - [**StarGaze**](https://github.com/filipe-2/stargaze): Projeto de website fullstack com HTML, CSS, JS, Python e Flask. 🐍

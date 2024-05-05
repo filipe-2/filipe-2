@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header"/>
 
 <div align="center">
-    <a href="https://github.com/filipe-2/stargaze/blob/main/README-en.md"><img src="https://img.shields.io/badge/Read_in-English-blue"/></a>
+    <a href="https://github.com/filipe-2/filipe-2/blob/main/README.md"><img src="https://img.shields.io/badge/Read_in-English-blue"/></a>
 </div>
 
 <br>

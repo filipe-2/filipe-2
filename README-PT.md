@@ -6,7 +6,7 @@
 
 <br>
 
-Bem-vindo(a) ao meu perfil do GitHub! Me chamo Filipe, sou do Brasil 🇧🇷. Atualmente estou focado em aprender desenvolvimento web mobile, e linguagem de programa primária no momento é JavaScript.
+Bem-vindo(a) ao meu perfil do GitHub! Me chamo Filipe, sou do Brasil 🇧🇷. Atualmente estou focado em aprender desenvolvimento web e mobile, e minha linguagem de programa primária no momento é JavaScript.
 
 <br>
 

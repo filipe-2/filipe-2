@@ -6,7 +6,7 @@
 
 <br>
 
-Welcome to my GitHub profile! I'm Filipe, and I'm from Brazil 🇧🇷. Currently, I'm focused on learning web and mobile development, and my primary programming language right now is JavaScript.
+Welcome to my GitHub profile! I'm Filipe, a fullstack web and mobile JavaScript developer.
 
 <br>
 
@@ -14,27 +14,15 @@ Welcome to my GitHub profile! I'm Filipe, and I'm from Brazil 🇧🇷. Currentl
 
 ## 🤹 Skill set
 
-Knowledge in web development languages including HTML, CSS, SASS, and JavaScript, as well as some basic knowledge of the React library.
+On the web side I use HTML, Sass, and JavaScript (mostly with TypeScript) with the Astro framework, I also like to use the React library a lot on my projects.
 
-I also use React Native for mobile development with Expo.
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,astro&theme=dark" />
 
-<br>
+On the mobile world I work with React Native and the Expo framework to build cross-platform apps with a native experience.
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,vscode,photoshop,git,github,firebase&theme=dark" />
+For both web and mobile I like to use Node.js and Express.js to build my backends together with MongoDB, but I also like to use Firebase sometimes for database and user authentication.
 
-## 📚 What I'm studying
-
-- **Vanilla JavaScript**: I'm studying vanilla JS to have a solid foundation for libraries like React.
-- **React/React Native**: I already feel comfortable to study React and React Native, because of my JS foundations.
-- **SASS**: For better CSS productivity, since it improves code readability a lot by allowing nesting, mixins, partials, etc.
-- And much more...
-
-## 👨‍💻 What I'm developing
-Currently, I'm working on four projects:
-- [**ThermoSense**](https://github.com/filipe-2/thermosense): An IoT project with the ESP32 module and React Native for developing a thermometer app. 🤖
-- [**StarGaze**](https://github.com/filipe-2/stargaze): A fullstack website project with HTML, CSS, JS, Python, and Flask. 🐍
-- [**The Coffee Shop**](https://github.com/filipe-2/the-coffee-shop): A frontend website project with vanilla JS. ☕
-- [**Dificuldades no Aprendizado**](https://github.com/filipe-2/dificuldades-no-aprendizado): A big data project with Python and machine learning algorithms. 📚
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 
 ## ☎️ Contact
 You can reach me through Gmail and LinkedIn:

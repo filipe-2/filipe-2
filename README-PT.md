@@ -18,7 +18,7 @@ No lado da <i>web</i> eu utilizo HTML, Sass e JavaScript (em grande parte com Ty
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,astro&theme=dark" />
 
-No mundo <i>mobile</i> eu trabalho com React Native e o <i>framework</i> Expo para criar aplicativos multiplataforma com experiência sem perder a experiência nativa.
+No mundo <i>mobile</i> eu trabalho com React Native e o <i>framework</i> Expo para criar aplicativos multiplataforma sem perder a experiência nativa.
 
 Tanto para a <i>web</i> quanto para <i>mobile</i>, gosto de usar o Node.js com o Express.js para criar meus <i>backends</i> junto com o MongoDB, mas também gosto de usar o Firebase às vezes para banco de dados e autenticação de usuário.
 

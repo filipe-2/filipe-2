@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header"/>
+<img width=100% src="./71ee32577432648f9e45fbd63b2cf261-1081255906.jpg"/>
 
 <div align="center">
     <a href="https://github.com/filipe-2/filipe-2/blob/main/README-PT.md"><img src="https://img.shields.io/badge/Ler_em-portugu%C3%AAs-blue"/></a>

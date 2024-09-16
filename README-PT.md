@@ -14,27 +14,13 @@ Bem-vindo(a) ao meu perfil do GitHub! Me chamo Filipe, sou um desenvolver JavaSc
 
 ## 🤹 Habilidades
 
-Conhecimento em linguagens de desenvolvimento web, incluindo HTNL, CSS, SASS e JavaScript, comi também um conhecimento básico da biblioteca React.
+No lado da <i>web</i> eu utilizo HTML, Sass e JavaScript (em grande parte com TypeScript) com o framework Astro, e também gosto bastante de utilizar a biblioteca React nos meus projetos.
 
-Eu também uso React Native para desenvolvimento mobile com Expo.
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,astro&theme=dark" />
 
-<br>
+No mundo <i>mobile</i> eu trabalho com React Native e o <i>framework</i> Expo para criar aplicativos multiplataforma com experiência sem perder a experiência nativa.
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,vscode,photoshop,git,github,firebase&theme=dark" />
-
-## 📚 O que estou estudando
-
-- **Vanilla JavaScript**: Estou estudando vanilla JS para ter fundações sólidas para bibliotecas como React.
-- **React/React Native**: Já me sinto confortável para estudar React e React Mative, por causa da minha base com JS.
-- **SASS**: Para uma maior produtividade com CSS, pois aumenta bastante a legibilidade do código por permiting nesting, mixions, partials, etc.
-- E muito mais...
-
-## 👨‍💻 O que estou criando
-Atualmente estou trabalhando em quatro projetos:
-- [**ThermoSense**](https://github.com/filipe-2/thermosense): Projeto de IoT com o módulo ESP32 e React Native para o desenvolvimento de um aplicativo termômetro. 🤖
-- [**StarGaze**](https://github.com/filipe-2/stargaze): Projeto de website fullstack com HTML, CSS, JS, Python e Flask. 🐍
-- [**The Coffee Shop**](https://github.com/filipe-2/the-coffee-shop): Projeto de website frontend com vanilla JS. ☕
-- [**Dificuldades no Aprendizado**](https://github.com/filipe-2/dificuldades-no-aprendizado):  Projeto de Big Data com Python e algoritmos de machine learning. 📚
+Tanto para a <i>web</i> quanto para <i>mobile</i>, gosto de usar o Node.js com o Express.js para criar meus <i>backends</i> junto com o MongoDB, mas também gosto de usar o Firebase às vezes para banco de dados e autenticação de usuário.
 
 ## ☎️ Contato
 Você pode entrar em contato comigo pelo Gmail e LinkedIn:

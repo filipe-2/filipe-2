@@ -25,7 +25,7 @@ Tanto para a <i>web</i> quanto para <i>mobile</i>, gosto de usar o Node.js com o
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 
 ## ☎️ Contato
-Você pode entrar em contato comigo pelo Gmail e LinkedIn:
+Entre em contato comigo pelo Gmail ou LinkedIn:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlos.filipe.ramos.12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/filipe-ramos-a990902b6/)

@@ -22,6 +22,8 @@ No mundo <i>mobile</i> eu trabalho com React Native e o <i>framework</i> Expo pa
 
 Tanto para a <i>web</i> quanto para <i>mobile</i>, gosto de usar o Node.js com o Express.js para criar meus <i>backends</i> junto com o MongoDB, mas também gosto de usar o Firebase às vezes para banco de dados e autenticação de usuário.
 
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+
 ## ☎️ Contato
 Você pode entrar em contato comigo pelo Gmail e LinkedIn:
 

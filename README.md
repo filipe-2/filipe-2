@@ -24,6 +24,12 @@ For both web and mobile I like to use Node.js with Express.js to build my backen
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 
+## Projects
+
+These are the projects that I'm currently developing:
+
+- NativeSass: A React Native library that provides Sass- and CSS-like features, like nesting and shared styles, without losing the default experience of using React Native stylesheets;
+
 ## ☎️ Contact
 Reach me through Gmail or LinkedIn:
 

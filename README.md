@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Filipe, a fullstack web and mobile JavaScript 
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=filipe-2&theme=black-ice&hide_border=true"/></div>
 
-## 🤹 Skill set
+## Skill set
 
 On the web side I use HTML, Sass, and JavaScript (mostly with TypeScript) with the Astro framework, I also like to use the React library a lot on my projects.
 
@@ -28,9 +28,9 @@ For both web and mobile I like to use Node.js with Express.js to build my backen
 
 These are the projects that I'm currently developing:
 
-- NativeSass: A React Native library that provides Sass- and CSS-like features, like nesting and shared styles, without losing the default experience of using React Native stylesheets;
+- NativeSass: A React Native library that provides Sass- and CSS-like features, like nesting and shared styles, without losing the default experience of using React Native stylesheets.
 
-## ☎️ Contact
+## Contact
 Reach me through Gmail or LinkedIn:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlos.filipe.ramos.12@gmail.com)

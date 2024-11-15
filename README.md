@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Filipe, a fullstack web and mobile JavaScript 
 
 <br>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=filipe-2&theme=black-ice&hide_border=true"/></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=filipe-2&theme=black-ice&hide_border=true" alt="My contributions stats"/></div>
 
 ## Skill set
 

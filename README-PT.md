@@ -12,7 +12,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Me chamo Filipe, sou um desenvolver JavaSc
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=filipe-2&theme=black-ice&hide_border=true"/></div>
 
-## 🤹 Habilidades
+## Habilidades
 
 No lado da <i>web</i> eu utilizo HTML, Sass e JavaScript (em grande parte com TypeScript) com o framework Astro, e também gosto bastante de utilizar a biblioteca React nos meus projetos.
 
@@ -24,7 +24,13 @@ Tanto para a <i>web</i> quanto para <i>mobile</i>, gosto de usar o Node.js com o
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 
-## ☎️ Contato
+## Projetos
+
+Esses são os projetos que eu estou desenvolvendo no momento:
+
+- [NativeSass](https://github.com/nativesass/nativesass): Uma biblioteca React Native que permite crair StyleSheets com funcionalidades baseadas no Sass e CSS, sem perder a experiência padrão de criá-las do jeito React Native.
+
+## Contato
 Entre em contato comigo pelo Gmail ou LinkedIn:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlos.filipe.ramos.12@gmail.com)

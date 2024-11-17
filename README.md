@@ -28,7 +28,7 @@ For both web and mobile I like to use Node.js with Express.js to build my backen
 
 These are the projects that I'm currently developing:
 
-- [NativeSass](https://github.com/nativesass/nativesass): - A React Native library that lets you create StyleSheets with Sass- and CSS-like functionality, without losing the default experience of creating them the React Native way.
+- [NativeSass](https://github.com/nativesass/nativesass): A React Native library that lets you create StyleSheets with Sass- and CSS-like functionality, without losing the default experience of creating them the React Native way.
 
 ## Contact
 Reach me through Gmail or LinkedIn:

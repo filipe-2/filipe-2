@@ -14,15 +14,17 @@ Welcome to my GitHub profile! I'm Filipe, a fullstack web and mobile JavaScript 
 
 ## Skill set
 
-On the web side I use HTML, Sass, and JavaScript (mostly with TypeScript) with the Astro framework, I also like to use the React library a lot on my projects.
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,astro&theme=dark" />
+</div>
+<br>
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,astro&theme=dark" />
+<strong>♦️ Web development:</strong> I use HTML, Sass, and JavaScript (mostly with TypeScript) with the Astro framework, I also like to use the React library a lot on my projects.
 
-On the mobile world I work with React Native and the Expo framework to build cross-platform apps without losing the native experience.
+<strong>♦️ Mobile development:</strong> I work with React Native, mostly with the Expo CLI, to build cross-platform apps without losing the native experience of Android and iOS apps.
 
-For both web and mobile I like to use Node.js with Express.js to build my backends together with MongoDB, but I also like to use Firebase sometimes for database and user authentication.
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+<strong>♦️ Backend:</strong> For both web and mobile development, I use <a href="https://nodejs.org/en">Node.js</a> with <a href="https://expressjs.com/">Express.js</a> to build my backends together with <a href="https://www.mongodb.com/">MongoDB</a>, but I also like to use <a href="https://firebase.google.com/">Firebase</a> for database and user authentication, specially for simpler projects or for test purposes.
 
 ## Projects
 

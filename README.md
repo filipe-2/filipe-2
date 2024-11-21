@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm Filipe, a fullstack web and mobile JavaScript 
 </div>
 <br>
 
-<strong>♦️ Web development:</strong> I use HTML, Sass, and JavaScript (mostly with TypeScript) with the Astro framework, I also like to use the React library a lot on my projects.
+<strong>♦️ Web development:</strong> I use <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>, <a href="https://sass-lang.com/">Sass</a>, and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> (mostly with <a href="https://www.typescriptlang.org/">TypeScript</a>) with the <a href="https://astro.build/">Astro</a> framework, I also like to use the <a href="https://react.dev/">React</a> library a lot on my projects.
 
-<strong>♦️ Mobile development:</strong> I work with React Native, mostly with the Expo CLI, to build cross-platform apps without losing the native experience of Android and iOS apps.
+<strong>♦️ Mobile development:</strong> I work with <a href="https://reactnative.dev/">React Native</a>, mostly with the <a href="https://docs.expo.dev/more/expo-cli/">Expo CLI</a>, to build cross-platform apps without losing the native experience of Android and iOS apps.
 
 <strong>♦️ Backend:</strong> For both web and mobile development, I use <a href="https://nodejs.org/en">Node.js</a> with <a href="https://expressjs.com/">Express.js</a> to build my backends together with <a href="https://www.mongodb.com/">MongoDB</a>, but I also like to use <a href="https://firebase.google.com/">Firebase</a> for database and user authentication, specially for simpler projects or for test purposes.
 

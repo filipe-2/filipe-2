@@ -6,7 +6,7 @@
 
 <br>
 
-Welcome to my GitHub profile! I'm Filipe, a fullstack web and mobile JavaScript developer.
+Welcome to my GitHub profile! I'm Filipe, a full stack web and mobile JavaScript developer.
 
 <br>
 

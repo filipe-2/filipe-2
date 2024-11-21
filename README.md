@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Filipe, a fullstack web and mobile JavaScript 
 ## Skill set
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,astro&theme=dark" />
 </div>
 <br>

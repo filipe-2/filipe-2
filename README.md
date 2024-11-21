@@ -1,4 +1,4 @@
-<img width=100% src="./assets/github-banner.jpg"/>
+<img width=100% src="./assets/my-github.jpg"/>
 
 <div align="center">
     <a href="https://github.com/filipe-2/filipe-2/blob/main/README-PT.md"><img src="https://img.shields.io/badge/Ler_em-portugu%C3%AAs-blue"/></a>

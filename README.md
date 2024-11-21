@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm Filipe, a fullstack web and mobile JavaScript 
 </div>
 <br>
 
-<strong>♦️ Web development:</strong> I use <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>, <a href="https://sass-lang.com/">Sass</a>, and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> (mostly with <a href="https://www.typescriptlang.org/">TypeScript</a>) with the <a href="https://astro.build/">Astro</a> framework, I also like to use the <a href="https://react.dev/">React</a> library a lot on my projects.
+<strong>♦️ Web development:</strong> I use <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>, <a href="https://sass-lang.com/">Sass</a>, and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> (mostly with <a href="https://www.typescriptlang.org/">TypeScript</a>) with the <a href="https://astro.build/">Astro</a> framework to develop frontend applications, I also like to use the <a href="https://react.dev/">React</a> library a lot on my projects.
 
 <strong>♦️ Mobile development:</strong> I work with <a href="https://reactnative.dev/">React Native</a>, mostly with the <a href="https://docs.expo.dev/more/expo-cli/">Expo CLI</a>, to build cross-platform apps without losing the native experience of Android and iOS apps.
 

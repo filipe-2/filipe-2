@@ -14,17 +14,25 @@ Welcome to my GitHub profile! I'm Filipe, a full stack web and mobile JavaScript
 
 ## Skill set
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,astro&theme=dark" />
-</div>
-<br>
+I develop mostly with the <a href="https://code.visualstudio.com/Docs/editor/whyvscode">VS Code</a> editor, <a href="https://git-scm.com/">Git</a> for local repositories and version control, and GitHub for remote repositories. I also use <a href="https://www.npmjs.com/">NPM</a> a lot both for managing packages in my personal projects and for publishing open source libraries.
 
-<strong>♦️ Web development:</strong> I use <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>, <a href="https://sass-lang.com/">Sass</a>, and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> (mostly with <a href="https://www.typescriptlang.org/">TypeScript</a>) with the <a href="https://astro.build/">Astro</a> framework to develop frontend applications, I also like to use the <a href="https://react.dev/">React</a> library a lot on my projects.
+<img src="https://skillicons.dev/icons?i=vscode,git,github,npm&theme=dark" />
 
-<strong>♦️ Mobile development:</strong> I work with <a href="https://reactnative.dev/">React Native</a>, mostly with the <a href="https://docs.expo.dev/more/expo-cli/">Expo CLI</a>, to build cross-platform apps without losing the native experience of Android and iOS apps.
+### Web development
 
-<strong>♦️ Backend:</strong> For both web and mobile development, I use <a href="https://nodejs.org/en">Node.js</a> with <a href="https://expressjs.com/">Express.js</a> to build my backends together with <a href="https://www.mongodb.com/">MongoDB</a>, but I also like to use <a href="https://firebase.google.com/">Firebase</a> for database and user authentication, specially for simpler projects or for test purposes.
+I use <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>, <a href="https://sass-lang.com/">Sass</a>, and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> (mostly with <a href="https://www.typescriptlang.org/">TypeScript</a>) with the <a href="https://astro.build/">Astro</a> framework to develop frontend applications, I also like to use the <a href="https://react.dev/">React</a> library a lot on my projects.
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,astro,react&theme=dark" />
+
+### Mobile development:
+
+I work with <a href="https://reactnative.dev/">React Native</a>, mostly with the <a href="https://docs.expo.dev/more/expo-cli/">Expo CLI</a> and TypeScript, to build cross-platform apps without losing the native experience of Android and iOS apps.
+
+### Backend:
+
+For both web and mobile development, I use <a href="https://nodejs.org/en">Node.js</a> with <a href="https://expressjs.com/">Express.js</a> to build my backends together with <a href="https://www.mongodb.com/">MongoDB</a>, but I also like to use <a href="https://firebase.google.com/">Firebase</a> for database and user authentication, specially for simpler projects or for test purposes.
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 
 ## Projects
 

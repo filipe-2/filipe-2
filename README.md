@@ -28,6 +28,13 @@ I use <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a h
 
 I work with <a href="https://reactnative.dev/">React Native</a>, mostly with the <a href="https://docs.expo.dev/more/expo-cli/">Expo CLI</a> and TypeScript, to build cross-platform apps without losing the native experience of Android and iOS apps.
 
+For styling I like to have features like nesting, shared styles between selectors, logical properties, shorthand properties, etc., but I don't feel like using web-based libraries that transpile CSS syntax or classes into JavaScript, so I use <a href="https://www.github.com/nativesass/nativesass">NativeSass</a>, which is similar to Sass but adheres to React Native's default styling syntax.
+
+<div>
+    <img width="40" height="40" src="./assets/expo-logo.png">
+    <img width="40" height="40" src="./assets/nativesass-logo.png">
+</div>
+
 ### Backend
 
 For both web and mobile development, I use <a href="https://nodejs.org/en">Node.js</a> with <a href="https://expressjs.com/">Express.js</a> to build my backends together with <a href="https://www.mongodb.com/">MongoDB</a>, but I also like to use <a href="https://firebase.google.com/">Firebase</a> for database and user authentication, specially for simpler projects or for test purposes.

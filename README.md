@@ -31,8 +31,9 @@ I work with <a href="https://reactnative.dev/">React Native</a>, mostly with the
 For styling I like to have features like nesting, shared styles between selectors, logical properties, shorthand properties, etc., but I don't feel like using web-based libraries that transpile CSS syntax or classes into JavaScript, so I use <a href="https://www.github.com/nativesass/nativesass">NativeSass</a>, which is similar to Sass but adheres to React Native's default styling syntax.
 
 <div>
-    <img width="40" height="40" src="./assets/expo-logo.png">
-    <img width="40" height="40" src="./assets/nativesass-logo.png">
+    <img width="50" height="50" src="./assets/reactnative.png"> 
+    <img width="50" height="50" src="./assets/expo.png"> 
+    <img width="50" height="50" src="./assets/nativesass.png"> 
 </div>
 
 ### Backend

@@ -50,7 +50,7 @@ These are the projects that I'm currently developing:
 
 ## Learning goals
 
-I plan to study C++ and Java in the future because they are very useful languages ​​and I also find them very familiar due to the similarities between their syntaxes and the syntaxes of JavaScript and TypeScript.
+I plan to study <a href="https://en.m.wikipedia.org/wiki/C%2B%2B">C++</a> and <a href="https://www.geeksforgeeks.org/introduction-to-java/">Java</a> in the future because they are very useful languages ​​and I also find them very familiar due to the similarities between their syntaxes and the syntaxes of JavaScript and TypeScript.
 
 <img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" />
 

@@ -48,10 +48,14 @@ These are the projects that I'm currently developing:
 
 - [NativeSass](https://github.com/nativesass/nativesass): A React Native library that lets you create StyleSheets with Sass- and CSS-like functionality, without losing the default experience of creating them the React Native way.
 
+## Learning goals
+
+I plan to study C++ and Java in the future because they are very useful languages ​​and I also find them very familiar due to the similarities between their syntaxes and the syntaxes of JavaScript and TypeScript.
+
+<img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" />
+
 ## Contact
 Reach me through Gmail or LinkedIn:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlos.filipe.ramos.12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/filipe-ramos-a990902b6/)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer"/>

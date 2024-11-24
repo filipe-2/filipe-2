@@ -24,11 +24,11 @@ I use <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a h
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,astro,react&theme=dark" />
 
-### Mobile development:
+### Mobile development
 
 I work with <a href="https://reactnative.dev/">React Native</a>, mostly with the <a href="https://docs.expo.dev/more/expo-cli/">Expo CLI</a> and TypeScript, to build cross-platform apps without losing the native experience of Android and iOS apps.
 
-### Backend:
+### Backend
 
 For both web and mobile development, I use <a href="https://nodejs.org/en">Node.js</a> with <a href="https://expressjs.com/">Express.js</a> to build my backends together with <a href="https://www.mongodb.com/">MongoDB</a>, but I also like to use <a href="https://firebase.google.com/">Firebase</a> for database and user authentication, specially for simpler projects or for test purposes.
 

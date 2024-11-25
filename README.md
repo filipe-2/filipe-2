@@ -46,7 +46,7 @@ For both web and mobile development, I use <a href="https://nodejs.org/en">Node.
 
 These are the projects that I'm currently developing:
 
-- [NativeSass](https://github.com/nativesass/nativesass): A React Native library that lets you create StyleSheets with Sass- and CSS-like functionality, without losing the default experience of creating them the React Native way. Learn more at the <a href="https://nativesass.github.io">official docs website</a>
+- [NativeSass](https://github.com/nativesass/nativesass): A React Native library that lets you create StyleSheets with Sass- and CSS-like functionality, without losing the default experience of creating them the React Native way. Learn more at the <a href="https://nativesass.github.io">official docs website</a>.
 
 ## Learning goals
 

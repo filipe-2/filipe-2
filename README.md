@@ -12,35 +12,78 @@ Welcome to my GitHub profile! I'm Filipe, a full stack web and mobile JavaScript
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=filipe-2&theme=black-ice&hide_border=true" alt="My contributions stats"/></div>
 
-## Skill set
+## 🧠 Tech Stack & Skills
 
-I develop mostly with the <a href="https://code.visualstudio.com/Docs/editor/whyvscode">VS Code</a> editor, ujsing<a href="https://git-scm.com/">Git</a> for local repositories and version control, and GitHub for remote repositories. I also use <a href="https://www.npmjs.com/">NPM</a> a lot both for managing packages in my personal projects and for publishing open source libraries.
+---
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,npm,jest&theme=dark" />
+### 🌐 Web Development  
+Modern front-end development with scalable and reactive UI components.
 
-### Web development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,react&theme=dark" />
 
-I use <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>, <a href="https://sass-lang.com/">Sass</a>, and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> (mostly with <a href="https://www.typescriptlang.org/">TypeScript</a>) with the <a href="https://astro.build/">Astro</a> framework to develop frontend applications, I also like to use the <a href="https://react.dev/">React</a> library a lot on my projects.
+- **HTML / CSS** – Semantic markup and responsive design foundations.
+- **JavaScript / TypeScript** – Dynamic and type-safe scripting.
+- **Astro** – Static site generation with fast, modern build architecture.
+- **React** – Component-based UI library for SPA development.
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,astro,react&theme=dark" />
+---
 
-### Mobile development
+### 📱 Mobile Development  
+Cross-platform app development with native performance and database sync.
 
-I work with <a href="https://reactnative.dev/">React Native</a>, mostly with the <a href="https://docs.expo.dev/more/expo-cli/">Expo CLI</a> and TypeScript, to build cross-platform apps without losing the native experience of Android and iOS apps.
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />  
+<sub>Additional: Expo, WatermelonDB (custom icon not supported)</sub>
 
-For styling I like to have features like nesting, shared styles between selectors, logical properties, shorthand properties, etc., but I don't feel like using web-based libraries that transpile CSS syntax or classes into JavaScript, so I use <a href="https://www.github.com/nativesass/nativesass">NativeSass</a>, which is similar to Sass but adheres to React Native's default styling syntax.
+- **React Native** – Build native mobile apps using React.
+- **Expo** – Streamlined development workflow for React Native.
+- **WatermelonDB** – High-performance reactive database for React Native.
 
-<div>
-    <img width="50" height="50" src="./assets/reactnative.png"> 
-    <img width="50" height="50" src="./assets/expo.png"> 
-    <img width="50" height="50" src="./assets/nativesass.png"> 
-</div>
+---
 
-### Backend
+### 🖥️ Backend  
+APIs and server logic for full-stack web and mobile apps.
 
-For both web and mobile development, I use <a href="https://nodejs.org/en">Node.js</a> with <a href="https://expressjs.com/">Express.js</a> to build my backends together with <a href="https://www.mongodb.com/">MongoDB</a>, but I also like to use <a href="https://firebase.google.com/">Firebase</a> for database and user authentication, specially for simpler projects or for test purposes.
+<img src="https://skillicons.dev/icons?i=nodejs,express,vercel&theme=dark" />  
+<sub>Additional: node-ts, JWT (icons not available)</sub>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+- **Node.js / Express.js** – Fast, event-driven back-end architecture.
+- **Node with TypeScript** – Type-safe server-side code.
+- **JWT (JSON Web Tokens)** – Authentication and authorization.
+- **Vercel** – Serverless deployment and hosting platform.
+
+---
+
+### 🗄️ Database  
+Flexible, scalable, and cloud-based data storage.
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" />
+
+- **MongoDB** – NoSQL document-oriented database.
+- **Firebase** – Real-time database, auth, and backend-as-a-service.
+
+---
+
+### 🧪 Testing  
+Reliable unit testing and code verification.
+
+<img src="https://skillicons.dev/icons?i=jest&theme=dark" />
+
+- **Jest** – Fast testing framework for JavaScript and TypeScript.
+
+---
+
+### ⚙️ Tooling & Dev Utilities  
+Automation, linting, and version control for clean and consistent codebases.
+
+<img src="https://skillicons.dev/icons?i=git,github,eslint,prettier&theme=dark" />  
+<sub>Additional: EditorConfig, Jest (already listed)</sub>
+
+- **Git / GitHub** – Distributed version control and project hosting.
+- **ESLint** – Linting and code quality enforcement.
+- **Prettier** – Code formatting for style consistency.
+- **EditorConfig** – Maintain coding styles between editors and IDEs.
+
+---
 
 ## Projects
 

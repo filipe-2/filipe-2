@@ -98,7 +98,7 @@ Automation, linting, and version control for clean and consistent codebases.
 
 Here are the projects I’m currently working on:
 
-- [NativeSass](https://github.com/nativesass/nativesass): A React Native library that lets you create StyleSheets with Sass- and CSS-like functionality, without losing the default experience of creating them the React Native way. Learn more at the <a href="https://nativesass.github.io">official docs website</a>.
+- [**NativeSass**](https://github.com/nativesass/nativesass): A library for React Native that enables Sass- and CSS-like styling using native conventions. Check out the [official documentation](https://nativesass.github.io) for more details.
 
 ---
 

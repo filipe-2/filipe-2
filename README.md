@@ -94,20 +94,25 @@ Automation, linting, and version control for clean and consistent codebases.
 
 ---
 
-## Projects
+## 🚧 Projects
 
-These are the projects that I'm currently developing:
+Here are the projects I’m currently working on:
 
 - [NativeSass](https://github.com/nativesass/nativesass): A React Native library that lets you create StyleSheets with Sass- and CSS-like functionality, without losing the default experience of creating them the React Native way. Learn more at the <a href="https://nativesass.github.io">official docs website</a>.
 
-## Learning goals
+---
 
-I plan to study <a href="https://en.m.wikipedia.org/wiki/C%2B%2B">C++</a> and <a href="https://www.geeksforgeeks.org/introduction-to-java/">Java</a> in the future because they are very useful languages ​​and I also find them very familiar due to the similarities between their syntaxes and the syntaxes of JavaScript and TypeScript.
+## 🎯 Learning Goals
+
+I’m planning to dive deeper into **C++** and **Java**. Their syntax feels familiar thanks to my experience with JavaScript and TypeScript, and I’m excited to explore their broader use cases and performance benefits.
 
 <img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" />
 
-## Contact
-Reach me through Gmail or LinkedIn:
+---
+
+## 📬 Contact Me
+
+Feel free to reach out via Gmail or LinkedIn:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlos.filipe.ramos.12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/filipe-ramos-a990902b6/)

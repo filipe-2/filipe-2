@@ -21,7 +21,7 @@ I primarily work in **Visual Studio Code**, using **Git** for version control an
 ### 🌐 Web Development  
 Modern front-end development with scalable and reactive UI components.
 
-![Skills](https://skills.syvixor.com/api/icons?i=html,css,sass,js,ts,react,astro&theme=light)
+![Skills](https://skills.syvixor.com/api/icons?i=html,css,sass,js,ts,react,astro)
 
 - **HTML / CSS / Sass** – Semantic markup, advanced styling, and responsive design foundations.
 - **JavaScript / TypeScript** – Dynamic and type-safe scripting.
@@ -37,7 +37,6 @@ Cross-platform app development with native performance and database sync.
 
 <sub>Additional: WatermelonDB (custom icon not supported)</sub>
 <br>
-<br>
 
 - **React Native** – Build native mobile apps using React.
 - **Expo** – Streamlined development workflow for React Native.
@@ -51,7 +50,6 @@ APIs and server logic for full-stack web and mobile apps.
 ![Skills](https://skills.syvixor.com/api/icons?i=node,express,vercel)
 
 <sub>Additional: JWT (icons not available)</sub>
-<br>
 <br>
 
 - **Node.js / Express.js** – Fast, event-driven back-end architecture.
@@ -87,7 +85,6 @@ Automation, linting, and version control for clean and consistent codebases.
 
 <sub>Additional: ESLint, Prettier, and EditorConfig (icons not available)</sub>
 <br>
-<br>
 
 - **Git / GitHub** – Distributed version control and project hosting.
 - **NPM** – NPM – The default package manager for Node. It helps manage project dependencies, run scripts, etc.
@@ -109,9 +106,7 @@ Here are the projects I’m currently working on:
 
 I’m planning to dive deeper into **C++** and **Java**. Their syntax feels familiar thanks to my experience with JavaScript and TypeScript, and I’m excited to explore their broader use cases and performance benefits.
 
-![Skills](https://skills.syvixor.com/api/icons?i=cpp,java&theme=light")
-
-<img src="https://skillicons.dev/icons?i=cpp,java&theme=light" />
+![Skills](https://skills.syvixor.com/api/icons?i=cpp,java)
 
 ---
 

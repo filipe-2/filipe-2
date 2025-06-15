@@ -47,9 +47,9 @@ Cross-platform app development with native performance and database sync.
 ### 🖥️ Backend  
 APIs and server logic for full-stack web and mobile apps.
 
-![Skills](https://skills.syvixor.com/api/icons?i=node,express,vercel)
+![Skills](https://skills.syvixor.com/api/icons?i=node,express,vercel,jwt)
 
-<sub>Additional: JWT (icons not available)</sub>
+<sub>Additional: JWT (icon not available)</sub>
 <br>
 
 - **Node.js / Express.js** – Fast, event-driven back-end architecture.
@@ -83,7 +83,7 @@ Automation, linting, and version control for clean and consistent codebases.
 
 ![Skills](https://skills.syvixor.com/api/icons?i=git,github,npm,eslint,prettier)
 
-<sub>Additional: ESLint, Prettier, and EditorConfig (icons not available)</sub>
+<sub>Additional: EditorConfig (icon not available)</sub>
 <br>
 
 - **Git / GitHub** – Distributed version control and project hosting.

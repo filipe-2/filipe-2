@@ -49,9 +49,6 @@ APIs and server logic for full-stack web and mobile apps.
 
 ![Skills](https://skills.syvixor.com/api/icons?i=node,express,vercel,jwt)
 
-<sub>Additional: JWT (icon not available)</sub>
-<br>
-
 - **Node.js / Express.js** – Fast, event-driven back-end architecture.
 - **Node with TypeScript** – Type-safe server-side code.
 - **JWT (JSON Web Tokens)** – Authentication and authorization.

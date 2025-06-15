@@ -62,7 +62,7 @@ Flexible, scalable, and cloud-based data storage.
 
 <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" />
 
-- **MongoDB** – NoSQL document-oriented database.
+- **MongoDB** – NoSQL (or better yet, not-just-SQL) document-oriented database.
 - **Firebase** – Real-time database, auth, and backend-as-a-service.
 
 ---

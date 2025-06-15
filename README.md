@@ -49,6 +49,7 @@ Cross-platform app development with native performance and database sync.
 APIs and server logic for full-stack web and mobile apps.
 
 ![Skills](https://skills.syvixor.com/api/icons?i=node,express,vercel)
+
 <sub>Additional: JWT (icons not available)</sub>
 <br>
 <br>
@@ -83,6 +84,7 @@ Reliable unit testing and code verification.
 Automation, linting, and version control for clean and consistent codebases.
 
 ![Skills](https://skills.syvixor.com/api/icons?i=git,github,npm)
+
 <sub>Additional: ESLint, Prettier, and EditorConfig (icons not available)</sub>
 <br>
 <br>

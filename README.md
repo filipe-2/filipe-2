@@ -14,6 +14,8 @@ Welcome to my GitHub profile! I'm **Filipe**, a full-stack JavaScript and TypeSc
 
 ## 🧠 Tech Stack & Skills
 
+I primarily work in **Visual Studio Code**, using **Git** for version control and **GitHub** for repository hosting. I rely heavily on **NPM**, both to manage packages in my own projects and to publish open source libraries.
+
 ---
 
 ### 🌐 Web Development  

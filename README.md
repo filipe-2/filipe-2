@@ -21,7 +21,7 @@ I primarily work in **Visual Studio Code**, using **Git** for version control an
 ### 🌐 Web Development  
 Modern front-end development with scalable and reactive UI components.
 
-![Skills](https://skills.syvixor.com/api/icons?i=html,css,sass,js,ts,react,astro)
+![Skills](https://skills.syvixor.com/api/icons?i=html,css,sass,js,ts,react,astro&theme=light)
 
 - **HTML / CSS / Sass** – Semantic markup, advanced styling, and responsive design foundations.
 - **JavaScript / TypeScript** – Dynamic and type-safe scripting.

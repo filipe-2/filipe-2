@@ -79,12 +79,13 @@ Reliable unit testing and code verification.
 ### ⚙️ Tooling & Dev Utilities  
 Automation, linting, and version control for clean and consistent codebases.
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />  
+<img src="https://skillicons.dev/icons?i=git,github,npm&theme=dark" />  
 <sub>Additional: ESLint, Prettier, and EditorConfig (icons not available)</sub>
 <br>
 <br>
 
 - **Git / GitHub** – Distributed version control and project hosting.
+- **NPM** – NPM – The default package manager for Node. It helps manage project dependencies, run scripts, etc.
 - **ESLint** – Linting and code quality enforcement.
 - **Prettier** – Code formatting for style consistency.
 - **EditorConfig** – Maintain coding styles between editors and IDEs.

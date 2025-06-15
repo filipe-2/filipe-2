@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm Filipe, a full stack web and mobile JavaScript
 
 I develop mostly with the <a href="https://code.visualstudio.com/Docs/editor/whyvscode">VS Code</a> editor, ujsing<a href="https://git-scm.com/">Git</a> for local repositories and version control, and GitHub for remote repositories. I also use <a href="https://www.npmjs.com/">NPM</a> a lot both for managing packages in my personal projects and for publishing open source libraries.
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,npm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,npm,jest,ESLint,prettier&theme=dark" />
 
 ### Web development
 

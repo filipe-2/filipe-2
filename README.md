@@ -33,7 +33,7 @@ Cross-platform app development with native performance and database sync.
 
 <img src="https://skillicons.dev/icons?i=react&theme=dark" />  
 <sub>Additional: Expo, WatermelonDB (custom icon not supported)</sub>
-
+<br>
 <br>
 
 - **React Native** – Build native mobile apps using React.
@@ -47,7 +47,7 @@ APIs and server logic for full-stack web and mobile apps.
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,vercel&theme=dark" />  
 <sub>Additional: node-ts, JWT (icons not available)</sub>
-
+<br>
 <br>
 
 - **Node.js / Express.js** – Fast, event-driven back-end architecture.

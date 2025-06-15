@@ -21,9 +21,9 @@ I primarily work in **Visual Studio Code**, using **Git** for version control an
 ### 🌐 Web Development  
 Modern front-end development with scalable and reactive UI components.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,astro,react&theme=dark" />
 
-- **HTML / CSS** – Semantic markup and responsive design foundations.
+- **HTML / CSS / Sass** – Semantic markup, advanced styling, and responsive design foundations.
 - **JavaScript / TypeScript** – Dynamic and type-safe scripting.
 - **Astro** – Static site generation with fast, modern build architecture.
 - **React** – Component-based UI library for SPA development.

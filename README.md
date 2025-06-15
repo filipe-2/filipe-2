@@ -111,7 +111,7 @@ I’m planning to dive deeper into **C++** and **Java**. Their syntax feels fami
 
 ![Skills](https://skills.syvixor.com/api/icons?i=cpp,java&theme=dark")
 
-<img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java&theme=light" />
 
 ---
 

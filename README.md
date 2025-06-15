@@ -79,10 +79,10 @@ Reliable unit testing and code verification.
 ### ⚙️ Tooling & Dev Utilities  
 Automation, linting, and version control for clean and consistent codebases.
 
-<img src="https://skillicons.dev/icons?i=git,github,eslint,prettier&theme=dark" />  
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />  
 <sub>Additional: ESLint, Prettier, and EditorConfig (icons not available)</sub>
-
-<br><br>
+<br>
+<br>
 
 - **Git / GitHub** – Distributed version control and project hosting.
 - **ESLint** – Linting and code quality enforcement.

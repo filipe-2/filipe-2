@@ -34,6 +34,7 @@ Modern front-end development with scalable and reactive UI components.
 Cross-platform app development with native performance and database sync.
 
 ![Skills](https://skills.syvixor.com/api/icons?i=react,expo)
+
 <sub>Additional: WatermelonDB (custom icon not supported)</sub>
 <br>
 <br>

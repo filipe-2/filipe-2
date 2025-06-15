@@ -33,8 +33,8 @@ Modern front-end development with scalable and reactive UI components.
 ### 📱 Mobile Development  
 Cross-platform app development with native performance and database sync.
 
-<img src="https://skillicons.dev/icons?i=react&theme=dark" />  
-<sub>Additional: Expo, WatermelonDB (custom icon not supported)</sub>
+![Skills](https://skills.syvixor.com/api/icons?i=react,expo)
+<sub>Additional: WatermelonDB (custom icon not supported)</sub>
 <br>
 <br>
 
@@ -47,8 +47,8 @@ Cross-platform app development with native performance and database sync.
 ### 🖥️ Backend  
 APIs and server logic for full-stack web and mobile apps.
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,vercel&theme=dark" />  
-<sub>Additional: node-ts, JWT (icons not available)</sub>
+![Skills](https://skills.syvixor.com/api/icons?i=node,express,vercel)
+<sub>Additional: JWT (icons not available)</sub>
 <br>
 <br>
 
@@ -62,7 +62,7 @@ APIs and server logic for full-stack web and mobile apps.
 ### 🗄️ Database  
 Flexible, scalable, and cloud-based data storage.
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" />
+![Skills](https://skills.syvixor.com/api/icons?i=mongodb,firebase)
 
 - **MongoDB** – A flexible, high-performance document-oriented database with JSON-like document models.
 - **Firebase** – Real-time database, authentication, and backend-as-a-service.
@@ -72,7 +72,7 @@ Flexible, scalable, and cloud-based data storage.
 ### 🧪 Testing  
 Reliable unit testing and code verification.
 
-<img src="https://skillicons.dev/icons?i=jest&theme=dark" />
+![Skills](https://skills.syvixor.com/api/icons?i=jest)
 
 - **Jest** – Fast testing framework for JavaScript and TypeScript.
 
@@ -81,7 +81,7 @@ Reliable unit testing and code verification.
 ### ⚙️ Tooling & Dev Utilities  
 Automation, linting, and version control for clean and consistent codebases.
 
-<img src="https://skillicons.dev/icons?i=git,github,npm&theme=dark" />  
+![Skills](https://skills.syvixor.com/api/icons?i=git,github,npm)
 <sub>Additional: ESLint, Prettier, and EditorConfig (icons not available)</sub>
 <br>
 <br>

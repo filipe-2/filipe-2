@@ -34,6 +34,7 @@ Cross-platform app development with native performance and database sync.
 <img src="https://skillicons.dev/icons?i=react&theme=dark" />  
 <sub>Additional: Expo, WatermelonDB (custom icon not supported)</sub>
 <br>
+<br>
 
 - **React Native** – Build native mobile apps using React.
 - **Expo** – Streamlined development workflow for React Native.

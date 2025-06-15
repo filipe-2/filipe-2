@@ -81,7 +81,7 @@ Reliable unit testing and code verification.
 ### ⚙️ Tooling & Dev Utilities  
 Automation, linting, and version control for clean and consistent codebases.
 
-![Skills](https://skills.syvixor.com/api/icons?i=git,github,npm)
+![Skills](https://skills.syvixor.com/api/icons?i=git,github,npm,eslint,prettier)
 
 <sub>Additional: ESLint, Prettier, and EditorConfig (icons not available)</sub>
 <br>

@@ -51,8 +51,8 @@ APIs and server logic for full-stack web and mobile apps.
 
 - **Node.js / Express.js** – Fast, event-driven back-end architecture.
 - **Node with TypeScript** – Type-safe server-side code.
-- **JWT (JSON Web Tokens)** – Authentication and authorization.
 - **Vercel** – Serverless deployment and hosting platform.
+- **JWT (JSON Web Tokens)** – Authentication and authorization.
 
 ---
 

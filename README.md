@@ -47,7 +47,7 @@ Cross-platform app development with native performance and database sync.
 ### 🖥️ Backend  
 APIs and server logic for full-stack web and mobile apps.
 
-![Skills](https://skills.syvixor.com/api/icons?i=node,express,vercel,jwt,axios)
+![Skills](https://skills.syvixor.com/api/icons?i=node,express,typescript,vercel,jwt,axios)
 
 - **Node.js / Express.js** – Fast, event-driven back-end architecture.
 - **Node with TypeScript** – Type-safe server-side code.

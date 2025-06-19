@@ -79,11 +79,12 @@ Reliable unit testing and code verification.
 ### ⚙️ Tooling & Dev Utilities  
 Automation, linting, and version control for clean and consistent codebases.
 
-![Skills](https://skills.syvixor.com/api/icons?i=git,github,npm,eslint,prettier)
+![Skills](https://skills.syvixor.com/api/icons?i=vscode,git,github,npm,eslint,prettier)
 
 <sub>Additional: EditorConfig (icon not available)</sub>
 <br>
 
+- **VSCode** – A lightweight code editor for web and software development.
 - **Git / GitHub** – Distributed version control and project hosting.
 - **NPM** – NPM – The default package manager for Node. It helps manage project dependencies, run scripts, etc.
 - **ESLint** – Linting and code quality enforcement.

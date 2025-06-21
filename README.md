@@ -86,7 +86,7 @@ Automation, linting, and version control for clean and consistent codebases.
 
 - **VSCode** – A lightweight code editor for web and software development.
 - **Git / GitHub** – Distributed version control and project hosting.
-- **NPM** – NPM – The default package manager for Node. It helps manage project dependencies, run scripts, etc.
+- **NPM** – The default package manager for Node. It helps manage project dependencies, run scripts, etc.
 - **ESLint** – Linting and code quality enforcement.
 - **Prettier** – Code formatting for style consistency.
 - **EditorConfig** – Maintain coding styles between editors and IDEs.

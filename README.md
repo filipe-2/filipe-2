@@ -25,8 +25,8 @@ Modern front-end development with scalable and reactive UI components.
 
 - **HTML / CSS / Sass** – Semantic markup, advanced styling, and responsive design foundations.
 - **JavaScript / TypeScript** – Dynamic and type-safe scripting.
-- **Astro** – Static site generation with fast, modern build architecture.
 - **React** – Component-based UI library for SPA development.
+- **Astro** – Static site generation with fast, modern build architecture.
 
 ---
 

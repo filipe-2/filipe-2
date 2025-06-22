@@ -111,7 +111,8 @@ I’m planning to dive deeper into **C++** and **Java**. Their syntax feels fami
 
 ## 📬 Contact Me
 
-Feel free to reach out via Gmail or LinkedIn:
+Feel free to reach out via Gmail, Instagram, or LinkedIn:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlos.filipe.ramos.12@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/filipe.ramos.12?igsh=YzljYTk1ODg3Zg==)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/filipe-ramos-a990902b6/)

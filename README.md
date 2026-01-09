@@ -79,7 +79,7 @@ Reliable unit testing and code verification.
 ### ⚙️ Tooling & Dev Utilities  
 Automation, linting, and version control for clean and consistent codebases.
 
-![Skills](https://skills.syvixor.com/api/icons?i=vscode,git,github,npm,eslint,prettier)
+![Skills](https://skills.syvixor.com/api/icons?i=vscode,git,github,npm,eslint,prettier,nodemon)
 
 <sub>Additional: EditorConfig (icon not available)</sub>
 <br>
@@ -89,6 +89,7 @@ Automation, linting, and version control for clean and consistent codebases.
 - **NPM** – The default package manager for Node. It helps manage project dependencies, run scripts, etc.
 - **ESLint** – Linting and code quality enforcement.
 - **Prettier** – Code formatting for style consistency.
+- **Nodemon** – A development utility that automatically restarts a Node.js application when file changes are detected, improving developer productivity.
 - **EditorConfig** – Maintain coding styles between editors and IDEs.
 
 ---

@@ -89,7 +89,7 @@ Automation, linting, and version control for clean and consistent codebases.
 - **NPM** – The default package manager for Node. It helps manage project dependencies, run scripts, etc.
 - **ESLint** – Linting and code quality enforcement.
 - **Prettier** – Code formatting for style consistency.
-- **Nodemon** – A development utility that automatically restarts a Node.js application when file changes are detected, improving developer productivity.
+- **Nodemon** – A productivity utility that automatically restarts a Node.js application when file changes are detected.
 - **EditorConfig** – Maintain coding styles between editors and IDEs.
 
 ---

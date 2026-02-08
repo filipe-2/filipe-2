@@ -94,6 +94,15 @@ Automation, linting, and version control for clean and consistent codebases.
 
 ---
 
+## 🤖 Other tools
+
+![Skills](https://skills.syvixor.com/api/icons?i=platformio,arduino)
+
+- **PlatformIO** - Cross-platform ecosystem for embedded development.
+- **Arduino** - Open-source platform for prototyping electronics.
+
+---
+
 ## 🚧 Projects
 
 Here are the projects I’m currently working on:

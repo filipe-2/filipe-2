@@ -57,13 +57,14 @@ APIs and server logic for full-stack web and mobile apps.
 
 ---
 
-### 🗄️ Database  
+### 🗄️ Database and Cloud Storage
 Flexible, scalable, and cloud-based data storage.
 
-![Skills](https://skills.syvixor.com/api/icons?i=mongodb,firebase)
+![Skills](https://skills.syvixor.com/api/icons?i=mongodb,firebase, cloudflare)
 
 - **MongoDB** – A flexible, high-performance document-oriented database with JSON-like document models.
 - **Firebase** – Real-time database, authentication, and backend-as-a-service.
+- **Cloudflare R2** – S3-compatible object storage at the edge.
 
 ---
 
@@ -98,8 +99,8 @@ Automation, linting, and version control for clean and consistent codebases.
 
 ![Skills](https://skills.syvixor.com/api/icons?i=platformio,arduino)
 
-- **PlatformIO** - Cross-platform ecosystem for embedded development.
-- **Arduino** - Open-source platform for prototyping electronics.
+- **PlatformIO** – Cross-platform ecosystem for embedded development.
+- **Arduino** – Open-source platform for prototyping electronics.
 
 ---
 

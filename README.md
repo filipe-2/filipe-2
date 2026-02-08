@@ -60,7 +60,7 @@ APIs and server logic for full-stack web and mobile apps.
 ### 🗄️ Database and Cloud Storage
 Flexible, scalable, and cloud-based data storage.
 
-![Skills](https://skills.syvixor.com/api/icons?i=mongodb,firebase, cloudflare)
+![Skills](https://skills.syvixor.com/api/icons?i=mongodb,firebase,cloudflare)
 
 - **MongoDB** – A flexible, high-performance document-oriented database with JSON-like document models.
 - **Firebase** – Real-time database, authentication, and backend-as-a-service.

@@ -128,3 +128,4 @@ Feel free to reach out via Gmail or Instagram:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlos.filipe.ramos.12@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/filipe.ramos.12?igsh=YzljYTk1ODg3Zg==)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/filipe-ramos-382b463b3)

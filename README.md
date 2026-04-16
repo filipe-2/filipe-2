@@ -110,7 +110,7 @@ Automation, linting, and version control for clean and consistent codebases.
 
 Here are the projects I’m currently working on:
 
-- [**NativeSass**](https://github.com/nativesass/nativesass): A library for React Native that enables Sass- and CSS-like styling using native conventions. Check out the [official documentation](https://nativesass.github.io) for more details.
+- [**Fluffle**](https://github.com/bibliolabsofficial/fluffle): An advanced styles library for React Native, it provides a more powerful StyleSheet API. Check out the [official documentation](https://fluffle.github.io) for more details.
 
 ---
 

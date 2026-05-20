@@ -110,7 +110,8 @@ Automation, linting, and version control for clean and consistent codebases.
 
 Here are the projects I’m currently working on:
 
-- [**Fluffle**](https://github.com/bibliolabsofficial/react-native-fluffle): An advanced styles library for React Native, it provides a more powerful StyleSheet API. Check out the [official documentation](https://fluffle.github.io) for more details.
+- [**React Native Fluffle**](https://github.com/bibliolabsofficial/react-native-fluffle): An advanced styles library for React Native, build on top of the React Native StyleSheet API using TypeScript. It provides more powerful features like nesting, `rem` units, and much more.
+- [**React Native Fluffle (documentação)**](https://react-native-fluffle.github.io): The documentation of `react-native-fluffle`, created with Astro.js, React.js, TypeScript, and Sass (SCSS).
 
 ---
 
